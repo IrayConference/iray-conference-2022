@@ -121,8 +121,7 @@ table.plenary{padding-top: 8px; background: #ffffff;}
 
 
 
-.tg  {border:none; }
-.tg img{ width: 20%; height: 30%;}
+.tg  {border:none; column-gap: 9px; }
 .tg td{border:none; font-family:Arial, sans-serif;font-size:14px; overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border:none; font-family:Arial, sans-serif;font-size:14px; font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-x1hj{border:none;font-size:22px;text-align:left;vertical-align:top}
