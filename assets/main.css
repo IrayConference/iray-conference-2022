@@ -121,15 +121,28 @@ table.plenary{padding-top: 8px; background: #ffffff;}
 
 
 
-.tg  {border:none; column-gap: 9px; }
-.tg td{border:none; font-family:Arial, sans-serif;font-size:14px; overflow:hidden;padding:1px 1px;word-break:normal;}
-.tg th{border:none; font-family:Arial, sans-serif;font-size:14px; font-weight:normal;overflow:hidden;padding:1px 1px;word-break:normal;}
-.tg .tg-x1hj{border:none;font-size:22px;text-align:left;vertical-align:top}
-.tg .tg-4qqe{border:none;font-size:22px;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-spag{border:none;font-size:22px;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-0pky{border:none;text-align:center;vertical-align:top}
-.tg .tg-eqm3{border:none;font-size:20px;text-align:left;vertical-align:top}
-.tg .tg-9d8n{border:none;font-size:22px;text-align:center;vertical-align:top}
+.tg  {border:none;border-collapse:collapse;border-spacing:0;}
+.tg td{border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;
+  padding:10px 5px;word-break:normal;}
+.tg th{border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-dgg6{border-color:inherit;font-family:"Times New Roman", Times, serif !important;font-weight:bold;text-align:center;
+  vertical-align:top}
+.tg .tg-fw4s{border-color:inherit;font-family:"Times New Roman", Times, serif !important;font-size:22px;text-align:center;
+  vertical-align:top}
+.tg .tg-0jlm{border-color:inherit;font-family:"Times New Roman", Times, serif !important;font-size:22px;text-align:left;
+  vertical-align:top}
+.tg .tg-8028{border-color:inherit;color:#680100;font-family:"Times New Roman", Times, serif !important;font-size:22px;
+  font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-45c4{border-color:inherit;font-family:"Times New Roman", Times, serif !important;font-size:20px;text-align:left;
+  vertical-align:top}
+.tg .tg-ct0l{border-color:inherit;font-family:"Times New Roman", Times, serif !important;font-size:22px;font-weight:bold;
+  text-align:center;vertical-align:top}
+.tg .tg-mnx1{border-color:inherit;font-family:"Times New Roman", Times, serif !important;font-size:20px;font-weight:bold;
+  text-align:left;vertical-align:top}
+
+  
 
 
 /* Registration and Directions iframes and Images */
