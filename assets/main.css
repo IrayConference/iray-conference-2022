@@ -121,7 +121,7 @@ table.plenary{padding-top: 8px; background: #ffffff;}
 
 
 
-.tg  {border:none; border-spacing: 10px 0;}
+.tg  {border:none; column-gap: 1%;}
 .tg td{border:none; font-family:Arial, sans-serif;font-size:14px; overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border:none; font-family:Arial, sans-serif;font-size:14px; font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-u7r7{cborder:none; color:#3531ff;font-size:22px;text-align:left;vertical-align:top}
