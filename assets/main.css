@@ -121,12 +121,10 @@ table.plenary{padding-top: 8px; background: #ffffff;}
 
 
 
-.tg  {border-collapse:collapse;border-spacing:0;}
+.tg  {border:none; border-collapse:collapse;border-spacing:0;}
 .tg img{ width: 50%; height: 70%; style='float: left;'}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg td{border:none; border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px; overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border:none; border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px; font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-x1hj{border-color:inherit;font-size:22px;text-align:left;vertical-align:top}
 .tg .tg-4qqe{border-color:inherit;font-size:22px;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-spag{border-color:inherit;font-size:22px;font-weight:bold;text-align:left;vertical-align:top}
