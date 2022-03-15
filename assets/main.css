@@ -121,8 +121,8 @@ table.plenary{padding-top: 8px; background: #ffffff;}
 
 
 
-.tg  {border-collapse:collapse;border-spacing:0;  border:none;}
-.tg td{border:none; border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+.tg  {border:none;}
+.tg td{border:none;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border:none; border-color:#000000;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
